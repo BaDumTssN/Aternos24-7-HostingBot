@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Venisa",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Venisa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "Venisa.aternos.me",
+    "port": 48340,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 960,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hello",
+        "im here",
+        "I guess.."
       ]
     },
     "chat-log": true,
